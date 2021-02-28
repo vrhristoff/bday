@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bday/static/css/main.ca58ca0d.chunk.css",
-    "main.js": "/bday/static/js/main.bf413d66.chunk.js",
-    "main.js.map": "/bday/static/js/main.bf413d66.chunk.js.map",
+    "main.css": "/bday/static/css/main.daa48d52.chunk.css",
+    "main.js": "/bday/static/js/main.cb0e03dc.chunk.js",
+    "main.js.map": "/bday/static/js/main.cb0e03dc.chunk.js.map",
     "runtime-main.js": "/bday/static/js/runtime-main.a0d9ca7a.js",
     "runtime-main.js.map": "/bday/static/js/runtime-main.a0d9ca7a.js.map",
     "static/js/2.faa39de3.chunk.js": "/bday/static/js/2.faa39de3.chunk.js",
     "static/js/2.faa39de3.chunk.js.map": "/bday/static/js/2.faa39de3.chunk.js.map",
     "index.html": "/bday/index.html",
-    "static/css/main.ca58ca0d.chunk.css.map": "/bday/static/css/main.ca58ca0d.chunk.css.map",
+    "static/css/main.daa48d52.chunk.css.map": "/bday/static/css/main.daa48d52.chunk.css.map",
     "static/js/2.faa39de3.chunk.js.LICENSE.txt": "/bday/static/js/2.faa39de3.chunk.js.LICENSE.txt",
     "static/media/bday.c83c1af1.png": "/bday/static/media/bday.c83c1af1.png",
     "static/media/question.5728de23.png": "/bday/static/media/question.5728de23.png",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.a0d9ca7a.js",
     "static/js/2.faa39de3.chunk.js",
-    "static/css/main.ca58ca0d.chunk.css",
-    "static/js/main.bf413d66.chunk.js"
+    "static/css/main.daa48d52.chunk.css",
+    "static/js/main.cb0e03dc.chunk.js"
   ]
 }
