@@ -9,7 +9,7 @@ import Result from "./containers/Result";
 function App() {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <div className="container app">
+      <div className="container app mb-4">
         <div className="row">
           <div className="col-12 center">
             <Header />

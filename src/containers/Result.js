@@ -20,7 +20,7 @@ const Result = () => {
             way), here is all the necessary information for the event:
             <br />
           </p>
-          <ul style={{ listStyle: "none" }} className="center">
+          <ul style={{ listStyle: "none" }} className="center no-pl">
             <li>
               <p>
                 <strong>Saturday 06/03/2021</strong>

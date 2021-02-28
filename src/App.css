@@ -1,6 +1,6 @@
 .app {
   color: #444;
-  max-width: 800px;
+  max-width: 700px;
 }
 
 .center {
@@ -9,6 +9,14 @@
 
 .left {
   text-align: left;
+}
+
+ul {
+  padding-left: 1rem;
+}
+
+ul.no-pl {
+  padding-left: 0;
 }
 
 #name {
@@ -23,6 +31,9 @@
 @media (max-width: 768px) {
   #name {
     width: 200px !important;
+  }
+  ul {
+    padding-left: 0rem;
   }
 
   .form-group {
