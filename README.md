@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Bday created with CRA
 
 This project was bootstrapped with [Create React App].
