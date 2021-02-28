@@ -8,7 +8,7 @@ import Result from "./containers/Result";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="container app">
         <div className="row">
           <div className="col-12 center">
