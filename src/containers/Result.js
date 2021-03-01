@@ -17,7 +17,7 @@ const Result = () => {
           </h5>
           <p className="card-text mb-4">
             It doesn't matter if you guessed the correct answer or not (it is 24
-            by the way), <strong>you are invited</strong> here is all the
+            by the way), <strong>you are invited</strong>! Here is all the
             necessary information for the event:
             <br />
           </p>
