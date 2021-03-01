@@ -16,8 +16,9 @@ const Result = () => {
             Look...you are a <strong>Winner</strong>!
           </h5>
           <p className="card-text mb-4">
-            It doesn't matter if you guessed the answer or not (it is 24 by the
-            way), here is all the necessary information for the event:
+            It doesn't matter if you guessed the correct answer or not (it is 24
+            by the way), <strong>you are invited</strong> here is all the
+            necessary information for the event:
             <br />
           </p>
           <ul style={{ listStyle: "none" }} className="center no-pl">
@@ -37,6 +38,11 @@ const Result = () => {
               </p>
             </li>
           </ul>
+          <p class="card-text">
+            <small class="text-muted">
+              Give me a call if you won't be able to come!
+            </small>
+          </p>
         </div>
       </div>
     </>
