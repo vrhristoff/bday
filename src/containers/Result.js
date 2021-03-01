@@ -8,7 +8,7 @@ const Result = () => {
         <img
           className="card-img-top m-auto"
           src={success}
-          alt="Birthday cake"
+          alt="Success"
           style={{ maxWidth: "500px" }}
         />
         <div className="card-body">
@@ -23,17 +23,17 @@ const Result = () => {
           <ul style={{ listStyle: "none" }} className="center no-pl">
             <li>
               <p>
-                <strong>Saturday 06/03/2021</strong>
+                <strong>Sat 06/03/2021</strong>
               </p>
             </li>
             <li>
               <p>
-                <strong>Lorem ipsum</strong>
+                <strong>Happy House</strong>
               </p>
             </li>
             <li>
               <p>
-                <strong>XX:XX</strong>
+                <strong>19:15</strong>
               </p>
             </li>
           </ul>

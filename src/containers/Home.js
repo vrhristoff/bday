@@ -11,6 +11,7 @@ const Home = () => {
     "Magdalena",
     "Mihaela",
   ];
+
   const [name, setName] = useState("");
   const [auth, setAuth] = useState(false);
   const [error, setError] = useState("");
