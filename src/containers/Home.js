@@ -4,7 +4,8 @@ import Explanation from "../components/Explanation";
 
 const Home = () => {
   const state = [
-    "Alexandar",
+    "Alexander",
+    "Aleksandar",
     "Apostol",
     "Maria",
     "Jose",
